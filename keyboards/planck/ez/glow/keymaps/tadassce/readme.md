@@ -15,4 +15,7 @@ qmk config user.keymap=tadassce
 
 # Compile
 make planck/ez/glow:tadassce
+
+# Flash
+qmk flash
 ```
